@@ -1,4 +1,4 @@
-# Gradio-Rag-Chatbot
+# Gradio-Rag-Chatbot (AYESHA ZAFAR MSDS23011)
 RAG chatbot integrating retrieval and LLMs
 
 # Financial Report Analysis Chatbot  
