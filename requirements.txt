@@ -1,0 +1,14 @@
+torch
+transformers
+langchain
+sentence_transformers
+gradio
+pinecone-client
+tavily-python
+pytesseract
+pdfminer
+pdf2image
+IPython
+pdfminer.six
+requests
+groq
